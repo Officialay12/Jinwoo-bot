@@ -1,7 +1,7 @@
 /*
   project_name : jinwoo bot
   Version : 2.4.0
-  Owner : Malvin King 
+  Owner : Sung MD 
   Clone if you can😪
 
 
@@ -21,15 +21,15 @@ global.SESSION_ID = process.env.SESSION_ID || ''
 
 //--------------------[ BOT NAME ]----------------------//
 
-global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ' 
+global.botname = process.env.BOT_NAME || 'SUNG MD' 
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber = process.env.OWNER_NUMBER || '2349159180375' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Malvin King' 
+global.ownername = process.env.OWNER_NAME || 'Ayo_codes' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
